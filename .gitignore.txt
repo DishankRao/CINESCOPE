@@ -1,0 +1,10 @@
+# Ignore Python venv
+venv/
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
