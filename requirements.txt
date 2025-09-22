@@ -1,5 +1,9 @@
 streamlit
-transformers
 requests
+plotly
+numpy
+pandas
+wordcloud
 matplotlib
+transformers
 torch
